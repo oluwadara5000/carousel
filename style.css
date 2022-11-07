@@ -16,11 +16,15 @@
 }
 
 .slides {
- padding: 10px;
- background-color: red;
+  padding: 10px;
+  background-color: red;
+  height: 15%;
+  width: 90%;
+  display: flex;
+  justify-content: center;
 }
 
-.slides img{
-    width: 100%;
-    height: 15%;
+.slides img {
+  width: 15%;
+  height: 100%;
 }
