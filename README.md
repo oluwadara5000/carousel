@@ -1,6 +1,6 @@
 # The link to the page is:  https://oluwadara5000.github.io/carousel/
 
-# carousel task
+# Carousel task
 
 # Create a Carousel/Slideshow with 6 different images of  your choice. 
 ### Ensure the following:
